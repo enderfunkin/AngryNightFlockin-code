@@ -86,8 +86,8 @@ class CreditsState extends MusicBeatState
 			['Ender Funkin',    'ender',        'Coder/Musican',                                   'https://twitter.com/EnderFunkin',   '00FFFF'],
 			['GDNeoCat',        'neocat',       'Second Coder',                                     'https://www.youtube.com/channel/UC2q7Ji2QXuOViYpQMzcZdfg',                                 'FFFFFF'],
 			[''],
-			['Discord']
-			['Unitech Studio Discord Server',   'discord', 'Join the discord server',               'https://discord.gg/xUr3kZ9mMu',    '5662F6']
+			['Discord'],
+			['Unitech Studio Discord Server', 'discord', 'Join the discord server', 'https://discord.gg/xUr3kZ9mMu', '5662F6']
 		];
 		
 		for(i in pisspoop){
