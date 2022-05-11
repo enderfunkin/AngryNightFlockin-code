@@ -81,13 +81,14 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Unitech Studio'],
+			['Psych Engine Team'],
 			['SMixels2',		'smixels2',		'Creator the mod and Artist/Animator',							'https://gamejolt.com/@SMixels2',	'0094FF'],
 			['Ender Funkin',    'ender',        'Coder/Musican',                                   'https://twitter.com/EnderFunkin',   '00FFFF'],
+			[''],
+			['Special Thanks'],
 			['GDNeoCat',        'neocat',       'Second Coder',                                     'https://www.youtube.com/channel/UC2q7Ji2QXuOViYpQMzcZdfg',                                 'FFFFFF'],
 			[''],
-			['Discord'],
-			['Unitech Studio Discord Server',   'discord', 'Join the discord server', 'https://discord.gg/xUr3kZ9mMu', '5662F6']
+			['Unitech Studio Discord Server',   'discord', 'Join the discord server',               'https://discord.gg/xUr3kZ9mMu',    '5662F6']
 		];
 		
 		for(i in pisspoop){
