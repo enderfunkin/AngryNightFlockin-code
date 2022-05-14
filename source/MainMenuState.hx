@@ -76,7 +76,7 @@ class MainMenuState extends MusicBeatState
 		#end
 		debugKeys = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));
 
-		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('menuBG'));
+		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('anflockin/menuBackgrounds/menuBG'));
 		bg.scrollFactor.set();
 		bg.setGraphicSize(Std.int(bg.width * 1.175));
 		bg.updateHitbox();
